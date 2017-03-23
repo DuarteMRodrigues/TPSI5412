@@ -3,6 +3,7 @@ package view;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import controller.GerirClientes;
 import model.Cliente;
 
 public class InserirCliente {
